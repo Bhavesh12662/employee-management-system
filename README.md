@@ -68,3 +68,4 @@ This is a frontend-only learning project. Data is stored in this browser's Local
 7. Refresh and confirm data persists.
 8. Test the mobile layout.
 9. Be ready to explain useState, useEffect, useMemo, props, controlled inputs, and array methods.
+# employee-management-system
